@@ -86,21 +86,3 @@ Hack/
 └── frontend/
     └── Pre_Hackverse_Vector_Frontend/
 ```
-
-## Publication sur GitHub (premier push)
-
-Si tu viens d'initialiser le depot local :
-
-```bash
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git push -u origin main
-```
-
-Si Git te demande ton identite :
-
-```bash
-git config --global user.name "Ton Nom"
-git config --global user.email "ton@email.com"
-```
