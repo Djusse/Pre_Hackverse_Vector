@@ -1,5 +1,7 @@
 # Pre Hackverse Vector
 
+**Projet Choisi : 4. Gestion de dépenses en groupe**
+
 Application web de gestion de depenses en groupe, avec optimisation des remboursements.
 
 Ce depot contient :
