@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Djusse/Pre_Hackverse_Vector_Backend.git
+[submodule "frontend/Pre_Hackverse_Vector_Frontend"]
+	path = frontend/Pre_Hackverse_Vector_Frontend
+	url = https://github.com/Djusse/Pre_Hackverse_Vector_Frontend.git
